@@ -99,7 +99,8 @@ install using pip
 2. Pandas
 3. plotly_express
 
-### How to install
+### How to run
+#### Steps to run the application
 1. Streamlit
   #### using Anaconda
   
@@ -127,7 +128,8 @@ In Anaconda Navigator, open a terminal in your environment (see step 2 above).
 
 In the terminal that appears, use Streamlit as usual:
 
-    streamlit run myfile.py
+    streamlit run app.py
+    
 
 3. plotly_express
 plotly may be installed using pip:
