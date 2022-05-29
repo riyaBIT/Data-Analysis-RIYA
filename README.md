@@ -91,7 +91,7 @@ install using pip
      
     pip install matplotlib
 
-## To make a website Inhave used Streamlit
+## To make a website I have used Streamlit
 
 ### Library used
 
