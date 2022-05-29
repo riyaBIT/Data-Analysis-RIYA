@@ -102,44 +102,44 @@ install using pip
 ### How to run
 #### Steps to run the application
 1. Streamlit
-      ####  Create a new environment with Streamlit in Anaconda:
+          ####  Create a new environment with Streamlit in Anaconda:
 
-       a. Follow the steps provided by Anaconda to set up
-         and manage your environment using the Anaconda
-          Navigator.
+           a. Follow the steps provided by Anaconda to set up
+             and manage your environment using the Anaconda
+              Navigator.
 
-       b. Select the "▶" icon next to your new environment.
-         Then select "Open terminal":
+           b. Select the "▶" icon next to your new environment.
+             Then select "Open terminal":
 
-       c. In the terminal that appears, type:
+           c. In the terminal that appears, type:
 
-        #### pip install streamlit
+            **pip install streamlit**
 
-       d. Test that the installation worked:
+           d. Test that the installation worked:
 
-        #### streamlit hello
+            **streamlit hello**
 
-      Streamlit's Hello app should appear in a new tab in your web browser!
+          Streamlit's Hello app should appear in a new tab in your web browser!
 
-    #### Use your new environment
-    In Anaconda Navigator, open a terminal in your environment (see step 2 above).
+        #### Use your new environment
+        In Anaconda Navigator, open a terminal in your environment (see step 2 above).
 
-    In the terminal that appears, use Streamlit as usual:
+        In the terminal that appears, use Streamlit as usual:
 
-        #### streamlit run app.py
+            **streamlit run app.py**
     
 2. Pandas
     
-    Already installed
+       Already installed
     
 
 3. plotly_express
-    plotly may be installed using pip:
+        plotly may be installed using pip:
 
-        pip install plotly==5.8.0
-    or conda:
+            pip install plotly==5.8.0
+        or conda:
 
-        conda install -c plotly plotly=5.8.0
+            conda install -c plotly plotly=5.8.0
 
 
 
