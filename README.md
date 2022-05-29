@@ -102,15 +102,13 @@ install using pip
 ### How to run
 #### Steps to run the application
 1. Streamlit
-  #### using Anaconda
-  
-   Create a new environment with Streamlit in Anaconda:
+  ####  Create a new environment with Streamlit in Anaconda:
 
    a. Follow the steps provided by Anaconda to set up
      and manage your environment using the Anaconda
       Navigator.
 
-   b. elect the "▶" icon next to your new environment.
+   b. Select the "▶" icon next to your new environment.
      Then select "Open terminal":
     
    c. In the terminal that appears, type:
