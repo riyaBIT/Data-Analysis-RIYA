@@ -126,20 +126,21 @@ install using pip
 
   In the terminal that appears, use Streamlit as usual:
 
-      **streamlit run app.py**
+      streamlit run app.py
 
 2. Pandas
     
        Already installed
-    
 
 3. plotly_express
-        plotly may be installed using pip:
 
-            pip install plotly==5.8.0
-        or conda:
+  plotly may be installed using pip:
 
-            conda install -c plotly plotly=5.8.0
+      pip install plotly==5.8.0
+      
+  or conda:
+
+      conda install -c plotly plotly=5.8.0
 
 
 
