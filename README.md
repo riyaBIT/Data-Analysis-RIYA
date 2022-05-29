@@ -113,11 +113,11 @@ install using pip
 
      c. In the terminal that appears, type:
 
-      **pip install streamlit**
+        pip install streamlit
 
      d. Test that the installation worked:
 
-      **streamlit hello**
+        streamlit hello 
 
     Streamlit's Hello app should appear in a new tab in your web browser!
 
