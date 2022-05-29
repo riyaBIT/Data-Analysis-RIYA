@@ -102,31 +102,31 @@ install using pip
 ### How to run
 #### Steps to run the application
 1. Streamlit
-  ####  Create a new environment with Streamlit in Anaconda:
+      ####  Create a new environment with Streamlit in Anaconda:
 
-   a. Follow the steps provided by Anaconda to set up
-     and manage your environment using the Anaconda
-      Navigator.
+       a. Follow the steps provided by Anaconda to set up
+         and manage your environment using the Anaconda
+          Navigator.
 
-   b. Select the "▶" icon next to your new environment.
-     Then select "Open terminal":
-    
-   c. In the terminal that appears, type:
+       b. Select the "▶" icon next to your new environment.
+         Then select "Open terminal":
 
-    pip install streamlit
- 
-   d. Test that the installation worked:
+       c. In the terminal that appears, type:
 
-    streamlit hello
+        pip install streamlit
 
-  Streamlit's Hello app should appear in a new tab in your web browser!
+       d. Test that the installation worked:
 
-#### Use your new environment
-In Anaconda Navigator, open a terminal in your environment (see step 2 above).
+        streamlit hello
 
-In the terminal that appears, use Streamlit as usual:
+      Streamlit's Hello app should appear in a new tab in your web browser!
 
-    streamlit run app.py
+    #### Use your new environment
+    In Anaconda Navigator, open a terminal in your environment (see step 2 above).
+
+    In the terminal that appears, use Streamlit as usual:
+
+        streamlit run app.py
     
 2. Pandas
     
@@ -134,12 +134,12 @@ In the terminal that appears, use Streamlit as usual:
     
 
 3. plotly_express
-plotly may be installed using pip:
+    plotly may be installed using pip:
 
-    pip install plotly==5.8.0
-or conda:
+        pip install plotly==5.8.0
+    or conda:
 
-    conda install -c plotly plotly=5.8.0
+        conda install -c plotly plotly=5.8.0
 
 
 
