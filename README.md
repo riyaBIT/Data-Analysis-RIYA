@@ -130,6 +130,10 @@ In the terminal that appears, use Streamlit as usual:
 
     streamlit run app.py
     
+2. Pandas
+    
+    Already installed
+    
 
 3. plotly_express
 plotly may be installed using pip:
